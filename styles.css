@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+
+.big-title {
+    font-size: 50px;
+    font-family: cursive;
+    color: yellow;
+    font-weight: bold;
+    /* text-align: center; */
+}
+
+.fineTune {
+    text-decoration: none;
+}
